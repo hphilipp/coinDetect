@@ -4,6 +4,8 @@
 ## Setup
 This Project is based on http://jupyter.org/
 
+Each picture is named after the coin with the smallest value.
+
 #### requirements:
 <code>pip install opencv-python pytesseract imutils</code>
 
